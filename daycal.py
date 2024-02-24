@@ -16,3 +16,5 @@ def days_cal(n):
 
 n = int(input("Enter the day:"))
 days_cal(n)
+
+
